@@ -14,6 +14,7 @@ lunch_menu = {
     3: ("Soda", 3000)
 }
 
+
 supper_menu = {
     1: ("Chips & Chicken", 7000),
     2: ("Pilau", 5500),
