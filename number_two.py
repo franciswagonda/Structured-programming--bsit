@@ -21,5 +21,4 @@ elif mark >= 60 and mark < 70:
   print("Grade C")
 elif mark >= 50 and mark < 60:
  print("Grade D")
-else:
-  print("Grade F")
+
